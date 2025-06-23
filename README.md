@@ -30,6 +30,10 @@ This project is a real-time interactive dashboard built using **Power BI**, visu
 
 ---
 
+## 📸 Sample Dashboard Outputs
+
+
+
 ## 🔧 Tech Stack
 
 | Tool | Purpose |
