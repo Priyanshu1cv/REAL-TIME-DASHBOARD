@@ -4,7 +4,7 @@
 ## 👨‍💻 Internship Details
 
 
-**Project Title**: SALES DASHBOARD  
+**Project Title**: REAL-TIME DASHBOARD  
 **Company**: Codtech IT Solutions  
 **Name**: Priyanshu Maheshwari  
 **Intern ID**: CTO4DF11  
