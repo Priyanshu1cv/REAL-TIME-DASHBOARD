@@ -112,8 +112,8 @@ This project is a real-time interactive dashboard built using **Power BI**, visu
 ## 📬 Contact
 
 Created by **Priyanshu Maheshwari**  
-📧 [priyanshu.analyticsprofs@yahoo.com]
-🌐 [(https://www.linkedin.com/in/priyanshu-maheshwari03/)]
+- 📧 [priyanshu.analyticsprofs@yahoo.com]
+- 🌐 [(https://www.linkedin.com/in/priyanshu-maheshwari03/)]
 
 ---
 
