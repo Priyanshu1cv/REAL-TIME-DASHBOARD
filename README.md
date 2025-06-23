@@ -3,10 +3,11 @@
 
 ## 👨‍💻 Internship Details
 
-**Project Title**: DATA-INTEGRATION-FROM-MULTIPLE-SOURCES  (Bharat Vyapar Pulse – Sales Dashboard)
+
+**Project Title**: SALES DASHBOARD  
 **Company**: Codtech IT Solutions  
-**Name**: Priyanshu Maheshwari 
-**Intern ID**: CT04DF11 
+**Name**: Priyanshu Maheshwari  
+**Intern ID**: CTO4DF11  
 **Domain**: Power BI  
 **Duration**: 4 Weeks  
 **Mentor**: Neela Santosh
