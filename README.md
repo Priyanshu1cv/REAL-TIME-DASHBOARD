@@ -32,7 +32,12 @@ This project is a real-time interactive dashboard built using **Power BI**, visu
 
 ## 📸 Sample Dashboard Outputs
 
+![Image](https://github.com/user-attachments/assets/26247ced-d5f4-4668-b62f-d409193d216a)
+![Image](https://github.com/user-attachments/assets/a82b6eec-fb2f-455e-bcb5-d00aebe1e3ee)
+![Image](https://github.com/user-attachments/assets/41724b76-287b-4974-8759-3668a0351355)
+![Image](https://github.com/user-attachments/assets/e7873af1-737f-4d31-b8e4-5cd8068944c7)
 
+---
 
 ## 🔧 Tech Stack
 
